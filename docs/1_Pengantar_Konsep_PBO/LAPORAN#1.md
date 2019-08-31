@@ -17,7 +17,7 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/percobaan1.png)
+![Percobaan 1](img/percobaan1.png)
 
 Link kode program : [Sepeda1841720078Reza](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720078Reza.java)
 Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
@@ -28,7 +28,7 @@ Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/percobaan2.png)
+![Percobaan 2](img/percobaan2.png)
 
 Link kode program : [SepedaGunung1841720078Reza](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720078Reza.java)
 Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
@@ -43,10 +43,10 @@ Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_kha1.png)
-![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_kha2.png)
-![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_ktha.png)
-![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_mainprogram.png)
+![Kitab Hadits Arbain 1](img/tugas_kha1.png)
+![Kitab Hadits Arbain 2](img/tugas_kha2.png)
+![Kitab Terjemah Hadits Arbain](img/tugas_ktha.png)
+![Main Program](img/tugas_mainprogram.png)
 
 Link kode program : [KitabHaditsArbain1841720078Reza](../../src/1_Pengantar_Konsep_PBO/KitabHaditsArbain1841720078Reza.java)
 Link kode program : [MainProgram1841720078Reza](../../src/1_Pengantar_Konsep_PBO/MainProgram1841720078Reza.java)
