@@ -17,10 +17,10 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![screenshot](img/percobaan1.PNG)
+![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/percobaan1.png)
 
-Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720078Reza.java)
-Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
+Link kode program : [Sepeda1841720078Reza](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720078Reza.java)
+Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
 
 ### Percobaan 2
 
@@ -28,10 +28,10 @@ Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepe
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![screenshot](img/percobaan2.PNG)
+![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/percobaan2.png)
 
-Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720078Reza.java)
-Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
+Link kode program : [SepedaGunung1841720078Reza](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720078Reza.java)
+Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
 
 ## Pertanyaan
 
@@ -43,14 +43,14 @@ Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepe
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![screenshot](img/tugas_kha1.PNG)
-![screenshot](img/tugas_kha2.PNG)
-![screenshot](img/tugas_ktha.PNG)
-![screenshot](img/tugas_mainprogram.PNG)
+![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_kha1.png)
+![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_kha2.png)
+![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_ktha.png)
+![screenshot](github.com/rez4rinaldi/laporan-praktikum-pbo-2019/tree/master/docs/1_Pengantar_Konsep_PBO/img/tugas_mainprogram.png)
 
-Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/KitabHaditsArbain1841720078Reza.java)
-Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/MainProgram1841720078Reza.java)
-Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/KitabTerjemahHaditsArbain1841720078Reza.java)
+Link kode program : [KitabHaditsArbain1841720078Reza](../../src/1_Pengantar_Konsep_PBO/KitabHaditsArbain1841720078Reza.java)
+Link kode program : [MainProgram1841720078Reza](../../src/1_Pengantar_Konsep_PBO/MainProgram1841720078Reza.java)
+Link kode program : [KitabTerjemahHaditsArbain1841720078Reza](../../src/1_Pengantar_Konsep_PBO/KitabTerjemahHaditsArbain1841720078Reza.java)
 
 ## Kesimpulan
 
