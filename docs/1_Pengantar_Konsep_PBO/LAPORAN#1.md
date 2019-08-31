@@ -35,7 +35,13 @@ Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+1. 
+2. 
+3. 
+4. 
+5. Hasil tambahan atribut warna pada class Sepeda1841720078Reza :
+![Pertanyaan No. 5](img/pertanyaannomor5.png)
+6. 
 
 ## Tugas
 
