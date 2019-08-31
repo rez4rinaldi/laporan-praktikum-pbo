@@ -2,7 +2,8 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
+2. Konsep dasar PBO
 
 ## Ringkasan Materi
 
@@ -56,4 +57,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(Reza Rinaldi)***
