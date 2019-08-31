@@ -17,9 +17,10 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![screenshot](img/percobaan1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720078Reza.java)
+Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
 
 ### Percobaan 2
 
@@ -27,9 +28,10 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![screenshot](img/percobaan2.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720078Reza.java)
+Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720078Reza.java)
 
 ## Pertanyaan
 
@@ -41,9 +43,14 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![screenshot](img/tugas_kha1.PNG)
+![screenshot](img/tugas_kha2.PNG)
+![screenshot](img/tugas_ktha.PNG)
+![screenshot](img/tugas_mainprogram.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/KitabHaditsArbain1841720078Reza.java)
+Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/MainProgram1841720078Reza.java)
+Link kode program : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/KitabTerjemahHaditsArbain1841720078Reza.java)
 
 ## Kesimpulan
 
