@@ -41,6 +41,7 @@ Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/
 4. 
 5. Hasil tambahan atribut warna pada class Sepeda1841720078Reza :
 ![Pertanyaan No. 5](img/pertanyaannomor5.png)
+Link kode program : [Sepeda1841720078Reza](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720078Reza.java)
 6. 
 
 ## Tugas
