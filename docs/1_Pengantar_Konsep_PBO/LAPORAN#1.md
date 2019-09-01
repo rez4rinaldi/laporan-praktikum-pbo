@@ -7,7 +7,9 @@
 
 ## Ringkasan Materi
 
-Pemrograman berorientasi objek lebih mudah untuk mencari kodingan yang salah secara rinci, sedangkan yang terstrukur sulit untuk mencarinya, karena kita harus mencari satu persatu.
+Pemrograman berorientasi objek lebih mudah untuk mencari kodingan yang salah secara terperinci, maka 
+dapat dipastikan keseluruhan program tidak akan terganggu. Sedangkan yang terstrukur sulit untuk mencarinya, karena kita harus mencarinya satu persatu dan perubahan sedikit fitur saja kemungkinan dapat mengganggu keseluruhan program.
+
 Konsep dari PBO juga mudah untuk dimengerti bagi orang" yang masih programmer pemula yang ingin menggeluti materi ini (PBO).
 
 ## Percobaan
