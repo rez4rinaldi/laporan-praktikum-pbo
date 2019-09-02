@@ -18,10 +18,11 @@
 ## Komponen Penilaian Laporan Praktikum
 
 1. Orisinalitas (35%)
-2. Kreativitas/inovasi (20%)
-3. Ketepatan mengumpulkan tugas (20%)
-4. Kesesuaian dengan aturan/instruksi (15%)
-5. Kerapian penulisan kode program (10%)
+2. Kreativitas/inovasi (15%)
+3. Ketepatan mengumpulkan tugas (15%)
+4. Ketepatan menjawab soal dan penyelesaian kode program (10%)
+5. Kesesuaian dengan aturan/instruksi (15%)
+6. Kerapian penulisan laporan dan kode program (10%)
 
 ## Struktur Folder
 
