@@ -116,7 +116,7 @@ Link kode program : [KitabTerjemahHaditsArbain1841720078Reza](../../src/1_Pengan
 
 ## Kesimpulan
 
-Dari pertemuan ini, kita telah mendemonstrasikan bagaimana paradigma pemrograman 
+> Dari pertemuan ini, kita telah mendemonstrasikan bagaimana paradigma pemrograman 
 berorientasi objek dan mengimplementasikannya kedalam program sederhana. Kita juga telah 
 mendemonstrasikan salah satu fitur paling penting dari PBO yaitu inheritance, yaitu dalam hal 
 membuat class SepedaGunung. 
@@ -127,9 +127,7 @@ kita extends atau wariskan saja dari class Sepeda, kemudian kita tinggal tambahk
 sebelumnya belum ada di class Sepeda. Inilah salah satu kelebihan PBO yang tidak ada di 
 pemrograman struktural.
 
-Dan ada beberapa konsep yang dapat ketahui selain dari Inheritance (Pewarisan). Seperti: Ecapsulation, Abstraction, dan Polymorphishm.
-Yang memiliki berbeda-beda kegunaan. Seperti halnya Polymorphism yang memiliki kegunaan melakukan satu tindakan yang sama, tetapi memiliki bentuk / cara yang berbeda saat melakukannya. Contohnya, ada kucing, serigala. Mereka sama, yakni Binatang. Tetapi memiliki
-perbedaan saat melakukan. Kucing suaranya mengeluarkan = meow, sedangkan serigala mengeluarkan = auuu, dll. Ini kesimpulan yang saya dapat dari Praktikum sampai Teori PBO waktu teman" menjelaskan presetasinya.
+> Ada beberapa juga konsep yang dapat ketahui selain dari Inheritance (Pewarisan). Seperti: Ecapsulation, Abstraction, dan Polymorphishm. Yang memiliki berbeda-beda kegunaan. Seperti halnya Polymorphism yang memiliki kegunaan melakukan satu tindakan yang sama, tetapi memiliki bentuk / cara yang berbeda saat melakukannya. Contohnya, ada kucing, serigala. Mereka sama, yakni Binatang. Tetapi memiliki perbedaan saat melakukan. Kucing suaranya mengeluarkan = meow, sedangkan serigala mengeluarkan = auuu, dll. Ini kesimpulan yang saya dapat dari Praktikum sampai Teori PBO waktu teman" menjelaskan presetasinya.
 
 ## Pernyataan Diri
 
