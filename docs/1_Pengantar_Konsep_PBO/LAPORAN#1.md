@@ -46,7 +46,8 @@ Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan 
 dengan pemrograman struktural!
 4. Pada class Sepeda, terdapat state/atribut apa saja?
-5. Tambahkan atribut warna pada class Sepeda.6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
+5. Tambahkan atribut warna pada class Sepeda.
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
 
 **Jawab**
 1. Didalam PBO dikenal beberapa aspek, yaitu:
