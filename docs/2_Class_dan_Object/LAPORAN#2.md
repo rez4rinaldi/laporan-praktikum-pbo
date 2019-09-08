@@ -62,6 +62,7 @@ Jawab:
 >* +setGajiKaryawan(): double,
 >* +tampilBiodataKaryawan(): void,
 >* +tampilGajiKaryawan(): void.
+
 > MainProgram:
 >* +main (String[]args): void
 
