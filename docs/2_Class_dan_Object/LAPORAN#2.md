@@ -37,9 +37,9 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. **Setia
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!,
 3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1!
 4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1!
-<br>
+
 Jawab:
-<br>
+
 1. Gambar desain class diagram:
 > ![Percobaan 1](img/percobaan1.PNG)
 
@@ -80,6 +80,7 @@ Membuat dan mengakses anggota suatu class, pada percobaan praktikum ini menjelas
 12. Instansiasi 2 objek lagi pada program diatas!
 
 Jawab:
+
 6. Screenshot:
 ![Percobaan 2](img/percobaan2_1.png)
 ![Percobaan 2](img/percobaan2_2.png)
