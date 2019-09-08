@@ -13,9 +13,13 @@
 ## Ringkasan Materi
 
 > a. Kita diajarkan cara membuat class diagram.
+<br>
 > b. Kita diajarkan cara membuat dan mengakses suatu class, dll.
+<br>
 > c. Kita bisa membedakan kegunaan antara ***void*** dan ***int / variable lainnya***. ***Void*** hanya memiliki output,tidak wajib memiliki input (tanpa nilai kembali / return). Sedangkan pada ***Int*** memiliki input, output, dan memiliki return sebagai outputnya (keluaran). Pada ***Int*** juga biasa memiliki parameter maupun tanpa parameter, Sama seperti method ***void*** kita boleh menggunakan parameter maupun tanpa parameter hal ini disesuikan dengan program yang kita butuhkan.
+<br>
 > d. Kita membuat Unified Modeling Language ( UML ) dengan baik, benar.
+<br>
 > e. Kita juga diajarkan memahami dan membuat try-catch.
 >* Fungsi dari try-catch sendiri untuk menangani error di Java, digunakan sebuah statement yang bernama try -
 catch. Statement tersebut digunakan untuk mengurung eksekusi yang menampilkan 
@@ -58,7 +62,7 @@ Jawab:
 >* +tampilBiodataKaryawan(): void,
 >* +tampilGajiKaryawan(): void.
 <br>
->MainProgram:
+> MainProgram:
 >* +main (String[]args): void
 
 ## Percobaan 2
@@ -77,15 +81,15 @@ Membuat dan mengakses anggota suatu class, pada percobaan praktikum ini menjelas
 <br>    
 Jawab:
 <br>
-6. 
-![Percobaan 2](img/percobaan2_1.png)
-![Percobaan 2](img/percobaan2_2.png)
+6. Screenshot:
+> ![Percobaan 2](img/percobaan2_1.png)
+> ![Percobaan 2](img/percobaan2_2.png)
 
 7. Pada bagian class Mahasiswa, yakni dibawah method **public class Mahasiswa**:
-![Percobaan 2](img/percobaan2_3.png)
+> ![Percobaan 2](img/percobaan2_3.png)
 
 8. Pada bagian class Mahasiswa, yakni dibawah method **public void tampilBiodata**:
-![Percobaan 2](img/percobaan2_4.png)
+> ![Percobaan 2](img/percobaan2_4.png)
 
 9. Objek yang di instansiasi hanya 1 (satu)
 
@@ -94,7 +98,7 @@ Jawab:
 11. Memanggil method **tampilBiodata()**
 
 12. Menambah instansiasi 2 objek pada class **TestMahasiswa**:
-![Percobaan 2](img/percobaan2_5.png)
+> ![Percobaan 2](img/percobaan2_5.png)
 
 Link kode program : [Mahasiswa1841720078Reza](../../src/2_Class_dan_Object/Mahasiswa1841720078Reza.java)
 
@@ -111,10 +115,9 @@ Menulis method yang memiliki argument/parameter dan memiliki return
 8. Ambil kesimpulan tentang kegunaan dari kata kunci return, dan kapan suatu method harus memiliki return!
 <br>
 Jawab:
-<br>
-6. 
-![Percobaan 3](img/percobaan3_1.png)
-![Percobaan 3](img/percobaan3_2.png)
+6. Screenshot:
+> ![Percobaan 3](img/percobaan3_1.png)
+> ![Percobaan 3](img/percobaan3_2.png)
 
 7. Argumen atau yang biasa disebut **Parameter**, berfungsi untuk memberikan nilai yang harus dieksekusi dalam fungsi tersebut. Perlu diingat argumen atau parameter tidak harus ada didalam sebuah fungsi (bersifat opsional).
 *Sumber: https://tutorkeren.com/artikel/ringkasan-mengenal-istilah-fungsi-atau-method-dalam-program.htm
@@ -132,13 +135,14 @@ Link kode program : [TestBarang1841720078Reza](../../src/2_Class_dan_Object/Test
 ## Tugas
 
 1. Jawab:
-> ![Tugas 1](img/tugas1.png)
+> ![Tugas 1](img/tugas1.PNG)
 
 2. Jawab:
 <br>
 Penjelasan program yang saya buat dari soal tugas no. 1:
 * Nama game yang disewakan / dipinjamkan disini ada 3 game, yakni: ***Memanah, Balapan Kuda, dan Balapan Renang***.
 * Game yang disewakan berbeda-beda harga, yakni: **Memanah: Rp. 4000(perhari), Balapan Kuda: Rp. 5000(perhari), dan Balapan Renang: Rp. 6000(perhari)**.
+<br>
 > ![Tugas 2](img/peminjamangame.png)
 > ![Tugas 2](img/testpeminjamangame.png)
 
