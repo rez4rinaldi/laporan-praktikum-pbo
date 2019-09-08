@@ -111,8 +111,9 @@ Menulis method yang memiliki argument/parameter dan memiliki return
 6. Jalankan program tersebut!
 7. Apakah fungsi argumen dalam suatu method?
 8. Ambil kesimpulan tentang kegunaan dari kata kunci return, dan kapan suatu method harus memiliki return!
-<br>
+   
 Jawab:
+
 6. Screenshot:
 ![Percobaan 3](img/percobaan3_1.png)
 ![Percobaan 3](img/percobaan3_2.png)
@@ -122,7 +123,7 @@ Jawab:
 
 8. > Return biasa digunakan untuk mengembalikan nilai kedalam fungsi itu sendiri. Intinya nilai yang dikembalikan akan
      disimpan dalam nama method.
-     <br>
+
    > Return digunakan pada saat method membutuhkan nilai (data) dikembalikan yang bisa disimpan dalam nama
      method. Inilah sebabnya kita dapat mencetak atau memindahkan nilai dari method return kedalam variabel. Meskipun demikian, sebenarnya saya bisa saja langsung mencetaknya.
      *Sumber: https://www.kodedasar.com/method-java/
@@ -137,6 +138,7 @@ Link kode program : [TestBarang1841720078Reza](../../src/2_Class_dan_Object/Test
 > ![Tugas 1](img/tugas1.PNG)
 
 2. Jawab:
+
 Penjelasan program yang saya buat dari soal tugas no. 1:
 * Nama game yang disewakan / dipinjamkan disini ada 3 game, yakni: ***Memanah, Balapan Kuda, dan Balapan Renang***.
 * Game yang disewakan berbeda-beda harga, yakni: **Memanah: Rp. 4000(perhari), Balapan Kuda: Rp. 5000(perhari), dan Balapan Renang: Rp. 6000(perhari)**.
@@ -148,7 +150,7 @@ Link kode program : [PeminjamanGame1841720078Reza](../../src/2_Class_dan_Object/
 
 Link kode program : [TestPeminjamanGame1841720078Reza](../../src/2_Class_dan_Object/TestPeminjamanGame1841720078Reza.java)
 
-1. Jawab:
+3. Jawab:
 > ![Tugas 3](img/lingkaran.png)
 > ![Tugas 3](img/testlingkaran.png)
 
