@@ -41,7 +41,7 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. **Setia
 Jawab:
 <br>
 1. Gambar desain class diagram:
-![Percobaan 1](img/percobaan1.PNG)
+> ![Percobaan 1](img/percobaan1.PNG)
 
 2. Class yang dibuat:
 >* Class 'Karyawan' dan Class (Main) sebagai pemanggil / menjalankan program.
