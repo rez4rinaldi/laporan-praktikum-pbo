@@ -40,7 +40,7 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. **Setia
 Jawab:
 <br>
 1. Gambar desain class diagram:
-> ![Percobaan 1](img/percobaan1.PNG)
+![Percobaan 1](img/percobaan1.PNG)
 
 2. Class yang dibuat:
 >* Class 'Karyawan' dan Class (Main) sebagai pemanggil / menjalankan program.
@@ -61,7 +61,6 @@ Jawab:
 >* +setGajiKaryawan(): double,
 >* +tampilBiodataKaryawan(): void,
 >* +tampilGajiKaryawan(): void.
-<br>
 > MainProgram:
 >* +main (String[]args): void
 
@@ -71,19 +70,18 @@ Membuat dan mengakses anggota suatu class, pada percobaan praktikum ini menjelas
 
 ### Soal Percobaan 2
 
-6. Jalankan class TestMahasiswa.java
-7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
-8. Jelaskan pada bagian mana proses pendeklarasian method pada program diatas!
-9. Berapa banyak objek yang di instansiasi pada program diatas!
-10. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.nim=101” ?
-11. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” ?
-12. Instansiasi 2 objek lagi pada program diatas!
-<br>    
+1. Jalankan class TestMahasiswa.java
+2. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
+3. Jelaskan pada bagian mana proses pendeklarasian method pada program diatas!
+4. Berapa banyak objek yang di instansiasi pada program diatas!
+5.  Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.nim=101” ?
+6.  Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” ?
+7.  Instansiasi 2 objek lagi pada program diatas!
+
 Jawab:
-<br>
 6. Screenshot:
-> ![Percobaan 2](img/percobaan2_1.png)
-> ![Percobaan 2](img/percobaan2_2.png)
+![Percobaan 2](img/percobaan2_1.png)
+![Percobaan 2](img/percobaan2_2.png)
 
 7. Pada bagian class Mahasiswa, yakni dibawah method **public class Mahasiswa**:
 > ![Percobaan 2](img/percobaan2_3.png)
@@ -116,14 +114,15 @@ Menulis method yang memiliki argument/parameter dan memiliki return
 <br>
 Jawab:
 6. Screenshot:
-> ![Percobaan 3](img/percobaan3_1.png)
-> ![Percobaan 3](img/percobaan3_2.png)
+![Percobaan 3](img/percobaan3_1.png)
+![Percobaan 3](img/percobaan3_2.png)
 
 7. Argumen atau yang biasa disebut **Parameter**, berfungsi untuk memberikan nilai yang harus dieksekusi dalam fungsi tersebut. Perlu diingat argumen atau parameter tidak harus ada didalam sebuah fungsi (bersifat opsional).
 *Sumber: https://tutorkeren.com/artikel/ringkasan-mengenal-istilah-fungsi-atau-method-dalam-program.htm
 
 8. > Return biasa digunakan untuk mengembalikan nilai kedalam fungsi itu sendiri. Intinya nilai yang dikembalikan akan
      disimpan dalam nama method.
+     <br>
    > Return digunakan pada saat method membutuhkan nilai (data) dikembalikan yang bisa disimpan dalam nama
      method. Inilah sebabnya kita dapat mencetak atau memindahkan nilai dari method return kedalam variabel. Meskipun demikian, sebenarnya saya bisa saja langsung mencetaknya.
      *Sumber: https://www.kodedasar.com/method-java/
@@ -138,11 +137,10 @@ Link kode program : [TestBarang1841720078Reza](../../src/2_Class_dan_Object/Test
 > ![Tugas 1](img/tugas1.PNG)
 
 2. Jawab:
-<br>
 Penjelasan program yang saya buat dari soal tugas no. 1:
 * Nama game yang disewakan / dipinjamkan disini ada 3 game, yakni: ***Memanah, Balapan Kuda, dan Balapan Renang***.
 * Game yang disewakan berbeda-beda harga, yakni: **Memanah: Rp. 4000(perhari), Balapan Kuda: Rp. 5000(perhari), dan Balapan Renang: Rp. 6000(perhari)**.
-<br>
+
 > ![Tugas 2](img/peminjamangame.png)
 > ![Tugas 2](img/testpeminjamangame.png)
 
@@ -150,7 +148,7 @@ Link kode program : [PeminjamanGame1841720078Reza](../../src/2_Class_dan_Object/
 
 Link kode program : [TestPeminjamanGame1841720078Reza](../../src/2_Class_dan_Object/TestPeminjamanGame1841720078Reza.java)
 
-3. Jawab:
+1. Jawab:
 > ![Tugas 3](img/lingkaran.png)
 > ![Tugas 3](img/testlingkaran.png)
 
@@ -169,11 +167,11 @@ Link kode program : [TestBarang_Tugas1841720078Reza](../../src/2_Class_dan_Objec
 ## Kesimpulan
 
 Pada pertemuan ke-2 ini, Pak Habibie memberi berberapa faedah pada pertemuan Praktikum & Teori seperti :
-<br>
+
 > Bahwasannya, 2 class (parent) sekaligus bisa memanggil anaknya (main), dengan menggunakan ***Implements*** (multiple_class), tetapi itu akan terjadi yang namanya diamond problem (ambigu) saat pemanggilan.
-<br>
+
 > Saya belajar cara membuat konstruktor pada class utama dengan cepat, fungsinya untuk memudahkan pada class main tidak mengetik object kembali. Dengan cara "klik kanan" pada class yang ingin di konstruktor. Lalu klik ***Insert Code...*** /tekan tombol Alt+Ins, kemudian pilih ***Constructor...***, kemudian pilih parameter yang ingin dibuat konstruktor, terakhir klik ***Generate***.
-<br>
+
 > Beliau juga memberi sedikit acuan kepada mahasiswa untuk membuat dokumen yang rapi agar pembaca mudah untuk membacanya. Karena percuma seorang programmer bisa membuat sebuah program bahkan ahli, tetapi dalam hal dokumentasi dia tidak baik, benar ataupun rapi. Itu bisa mengakibatkan orang-orang yang ingin membaca, tidak mengetahui apa yang dimaksud oleh si pembuat program, bahkan yang membuat sendiri tidak mengerti apa yang ia buat.
 
 ## Pernyataan Diri
