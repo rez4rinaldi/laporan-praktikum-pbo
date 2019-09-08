@@ -13,14 +13,15 @@
 ## Ringkasan Materi
 
 > a. Kita diajarkan cara membuat class diagram.
-<br>
+
 > b. Kita diajarkan cara membuat dan mengakses suatu class, dll.
-<br>
+
 > c. Kita bisa membedakan kegunaan antara ***void*** dan ***int / variable lainnya***. ***Void*** hanya memiliki output,tidak wajib memiliki input (tanpa nilai kembali / return). Sedangkan pada ***Int*** memiliki input, output, dan memiliki return sebagai outputnya (keluaran). Pada ***Int*** juga biasa memiliki parameter maupun tanpa parameter, Sama seperti method ***void*** kita boleh menggunakan parameter maupun tanpa parameter hal ini disesuikan dengan program yang kita butuhkan.
-<br>
+
 > d. Kita membuat Unified Modeling Language ( UML ) dengan baik, benar.
-<br>
+
 > e. Kita juga diajarkan memahami dan membuat try-catch.
+
 >* Fungsi dari try-catch sendiri untuk menangani error di Java, digunakan sebuah statement yang bernama try -
 catch. Statement tersebut digunakan untuk mengurung eksekusi yang menampilkan 
 error dan dapat membuat program tetap berjalan tanpa dihentikan secara langsung. 
@@ -70,13 +71,13 @@ Membuat dan mengakses anggota suatu class, pada percobaan praktikum ini menjelas
 
 ### Soal Percobaan 2
 
-1. Jalankan class TestMahasiswa.java
-2. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
-3. Jelaskan pada bagian mana proses pendeklarasian method pada program diatas!
-4. Berapa banyak objek yang di instansiasi pada program diatas!
-5.  Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.nim=101” ?
-6.  Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” ?
-7.  Instansiasi 2 objek lagi pada program diatas!
+6. Jalankan class TestMahasiswa.java
+7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
+8. Jelaskan pada bagian mana proses pendeklarasian method pada program diatas!
+9. Berapa banyak objek yang di instansiasi pada program diatas!
+10. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.nim=101” ?
+11. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” ?
+12. Instansiasi 2 objek lagi pada program diatas!
 
 Jawab:
 6. Screenshot:
