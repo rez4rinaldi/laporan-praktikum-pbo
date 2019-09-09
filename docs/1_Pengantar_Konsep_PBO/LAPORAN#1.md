@@ -18,8 +18,6 @@ Konsep dari PBO juga mudah untuk dimengerti bagi orang-orang yang masih programm
 
 Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, membuat object, kemudian mengakses method didalam class tersebut.
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
 ![Percobaan 1](img/percobaan1.png)
 
 Link kode program : [Sepeda1841720078Reza](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720078Reza.java)
@@ -29,8 +27,6 @@ Link kode program : [SepedaDemo1841720078Reza](../../src/1_Pengantar_Konsep_PBO/
 ### Percobaan 2
 
 Didalam percobaan ini, akan didemonstrasikan salah satu fitur yang paling penting dalam PBO, yaitu inheritance. Disini kita akan membuat class SepedaGunung yang mana adalah turunan/warisan dari class Sepeda. Pada dasarnya class SepedaGunung adalah sama dengan class Sepeda, hanya saja pada sepeda gunung terdapat tipe suspensi. Untuk itu kita tidak perlu membuat class Sepeda Gunung dari nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung.
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
 ![Percobaan 2](img/percobaan2.png)
 
@@ -103,10 +99,6 @@ Link kode program : [Sepeda1841720078Reza](../../src/1_Pengantar_Konsep_PBO/Sepe
    "extends" fungsinya dapat mewarisi semua fungsi dan semua fields (variable) yang ada di dalam kelas parent (Sepeda).
 
 ## Tugas
-
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
 ![Kitab Hadits Arbain 1](img/tugas_kha1.png)
 ![Kitab Hadits Arbain 2](img/tugas_kha2.png)
