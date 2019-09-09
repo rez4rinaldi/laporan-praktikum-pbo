@@ -68,7 +68,7 @@ Jawab:
 
 ## Percobaan 2
 
-Membuat dan mengakses anggota suatu class, pada percobaan praktikum ini menjelaskan instansisasi objek dan bagaiamana cara penggunaannya.
+Membuat dan mengakses anggota suatu class, pada percobaan praktikum ini menjelaskan instansisasi objek dan bagaimana cara penggunaannya.
 
 ### Soal Percobaan 2
 
