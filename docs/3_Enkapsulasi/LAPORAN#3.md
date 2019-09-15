@@ -15,7 +15,7 @@
 kita tidak perlu mengetahui kompleksitas yang ada didalamnya. Hal ini akan lebih mudah dipahami 
 jika kita membayangkan atau menganalisa objek yang ada disekitar kita
 
->* Misalnya obejek penghisap debu, ketika kita mencolokkan kabel penghisap debu 
+>* Misalnya objek penghisap debu, ketika kita mencolokkan kabel penghisap debu 
 dan menyalakan sakelarnya maka mesin tersebut siap digunakan untuk menghisap debu. Dalam 
 proses tersebut kita tidak mengetahui proses rumit yang terjadi ketika mengubah listrik menjadi 
 tenaga dari penghisap debu. Dalam contoh diatas penghisap debu telah menerapkan 
@@ -148,9 +148,9 @@ Pada pertemuan ke-3 ini, Pak Habibie memberi sedikit faedah yang saya dapatkan p
 > Bahwasannya if tidak perlu di beri kondisi true lagi, karena if itu selalu true (pada statement yang dieksekusi). Sedangkan else itu selalu false (pada statement yang dieksekusi).
 
 > Perbedaan dari interface dengan abstract class dalam Java. Seperti:
-- Abstract Class, bisa berisi abstract dan non-abstract method. Sedangkan interface, hanya boleh berisi abstract method saja.
-- Abstract Class, kita harus menuliskan sendiri modifiernya. Sedangkan interface, Kita tidak perlu susah2 menulis public abstract di depan nama method. Karena secara implisit, modifier untuk method di interface adalah public dan abstract.
-- Abstract Class, suatu abstact class hanya bisa meng-extend satu abstract class lainnya.	Sedangkan interface, suatu interface bisa meng-extend  satu atau lebih interface lainnya.
+>- Abstract Class, bisa berisi abstract dan non-abstract method. Sedangkan interface, hanya boleh berisi abstract method saja.
+>- Abstract Class, kita harus menuliskan sendiri modifiernya. Sedangkan interface, Kita tidak perlu susah2 menulis public abstract di depan nama method. Karena secara implisit, modifier untuk method di interface adalah public dan abstract.
+>- Abstract Class, suatu abstact class hanya bisa meng-extend satu abstract class lainnya.	Sedangkan interface, suatu interface bisa meng-extend  satu atau lebih interface lainnya.
 
 ## Tugas
 
