@@ -425,6 +425,8 @@ Link kode program:
 
 [MainTugas1841720078Reza](../../src/6_Inheritance/MainTugas1841720078Reza.java)
 
+*NB: Pada atribut **kecProsesor** saya ganti dari **variable int ke double**, dikarenakan **hasil angka dari atribut kecProsesor ada ","** maka dari itu saya menggunakan variable **double**.*
+
 ## Kesimpulan
 
 > Pada jobsheet ke-6 ini, kita diajarkan lebih mendalam bagaimana mengimplementasikan program yang didalamnya ada proses penurunan / pewarisan kelas (Inheritance).
