@@ -425,7 +425,7 @@ Link kode program:
 
 [MainTugas1841720078Reza](../../src/6_Inheritance/MainTugas1841720078Reza.java)
 
-*NB: Pada atribut **kecProsesor** saya ganti dari **variable int ke double**, dikarenakan **hasil angka dari atribut kecProsesor ada ","** maka dari itu saya menggunakan variable **double**.*
+*NB: Pada atribut **kecProsesor** saya ganti dari **tipe data int ke double**, dikarenakan **hasil angka dari atribut kecProsesor ada ","** maka dari itu saya menggunakan tipe data **double**.*
 
 ## Kesimpulan
 
