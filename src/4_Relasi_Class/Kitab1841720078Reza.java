@@ -6,6 +6,7 @@ package jti.polinema.relasiclass.tugas1841720078Reza;
  */
 public class Kitab1841720078Reza 
 {
+    private Pedagang1841720078Reza mPedagang;
     private String mJudul;
     private int mHarga;
     private int mJumlah;
@@ -19,7 +20,17 @@ public class Kitab1841720078Reza
         this.mHarga = mHarga;
         this.mJumlah = mJumlah;
     }
+
+    public void setPedagangReza(Pedagang1841720078Reza mPedagang) 
+    {
+        this.mPedagang = mPedagang;
+    }
     
+    public Pedagang1841720078Reza getPedagangReza() 
+    {
+        return mPedagang;
+    }
+
     public void setJudulKitabReza(String mJudul) 
     {
         this.mJudul = mJudul;
