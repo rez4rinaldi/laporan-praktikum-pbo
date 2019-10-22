@@ -28,7 +28,7 @@ konsistensi dalam hal penamaan method.**
 *Karena terkadang kita perlu membuat beberapa method 
 yang kegunaannya sama, namun parameternya berbeda.*
 
-> **Overriding** terjadi jika terdapat method pada subclass dengan **nama yang sama dan signature yang sama** dengan **parent-class** nya.
+> **Overriding** terjadi jika terdapat method pada subclass dengan **nama yang sama dan signature yang sama** dengan **parent-class** nya.
 
 > Ciri-ciri overriding:
 >* Terjadi pada sub class/class turunan
@@ -74,7 +74,7 @@ Link kode program:
 ## Latihan
 ## Latihan 1
 
-Latihan pertama akan membuat sebuah perhitungan matematika perkalian. Kitak akan membuat class PerklianKu terlebih dahulu.
+Latihan pertama akan membuat sebuah perhitungan matematika perkalian. Kita akan membuat class PerklianKu terlebih dahulu.
 
 Hasilnya adalah sebagai berikut:
 
