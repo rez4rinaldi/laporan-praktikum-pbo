@@ -1,4 +1,4 @@
-# Revisi Laporan Praktikum #3 - Enkapsulasi
+# Laporan Praktikum #3 - Enkapsulasi
 
 ## Kompetensi
 
