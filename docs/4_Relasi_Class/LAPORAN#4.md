@@ -248,7 +248,7 @@ Link kode program:
 
 [Pedagang1841720078Reza](../../src/4_Relasi_Class/Pedagang1841720078Reza.java)
 
-[Kitab1841720078Reza](../../src/4_Relasi_Class/MainPercobaan1_1841720078Reza.java)
+[Kitab1841720078Reza](../../src/4_Relasi_Class/Kitab_1841720078Reza.java)
 
 [Resi1841720078Reza](../../src/4_Relasi_Class/Resi1841720078Reza.java)
 
