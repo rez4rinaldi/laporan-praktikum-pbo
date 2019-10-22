@@ -1,4 +1,4 @@
-# Laporan Praktikum #3 - Enkapsulasi
+# Revisi Laporan Praktikum #3 - Enkapsulasi
 
 ## Kompetensi
 
@@ -130,8 +130,8 @@ dari atribut private.
 5. - Nama konstruktor harus sama dengan nama class,
    - Konstruktor tidak memiliki tipe data return,
    - dan konstruktor tidak boleh menggunakan modifier abstract, static, final, dan syncronized.
-6. Tidak boleh, jika konstruktor bertipe private maka objek tidak bisa diakes / tidak bisa di instansiasi oleh class lain.
-7. Jika kita menggunakan konstruktor pada class maka sebaiknya kita menggunakan passing parameter pada class mainnya, begitu juga sebaliknya.
+6. Boleh / bisa, pada class yang diberi konstuktor tidak akan terjadi eror. Namun akan terjadi eror pada class yang akan menginstansiasi object dari class yang memiliki konstruktor bertipe private tadi.
+7. Ketika sebuah atribut membutuhkan nilai yang spesifik.
 8. **Attribute dari sebuah class** adalah variabel global yang dimiliki sebuah class, sedangkan **instansiasi atribut** adalah atribut yang didefinisikan di dalam suatu metode dan hanya menjadi milik dari instance class itu sendiri.
 9. **Class method** adalah method yang terikat dengan kelas lain dan itu bukan objek class. Sedangkan **instansiasi method** adalah metode pembuatan objek, lalu dikenalkan dengan kelas lain, dan mengenalkannya dengan objek class-nya.
 
