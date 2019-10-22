@@ -19,7 +19,11 @@ Jenis ***relasi has‑a*** ini yang akan dicontohkan pada percobaan di jobsheet 
 ### Percobaan 1
 
 Didalam percobaan ini, akan dibuat 2 class. Class Processor dan Class Laptop. Dan atribut prosesor yang ada di dalam class Laptop itu 
-merupakan objek dari class Proceessor tersebut.
+merupakan objek dari class Proceessor tersebut. 
+
+Kedua class tersebut digambarkan dengan diagram class di bawah ini:
+
+![Percobaan 1](img/diagramClassPercobaan1.PNG)
 
 Didapatkan hasil seperti berikut:
 
@@ -66,6 +70,10 @@ Apakah p tersebut ? Dan apakah yang terjadi jika baris kode tersebut diubah menj
 
 Didalam percobaan ini. Class Pelanggan bisa 
 menyewa mobil sekaligus sopir. Biaya sopir dan biaya sewa mobil dihitung per hari.
+
+Berikut ini adalah gambar class diagram pada percobaan 2 :
+
+![Percobaan 2](img/diagramClassPercobaan2.PNG)
 
 Didapatkan hasil seperti berikut:
 
@@ -117,6 +125,10 @@ kalanya relasi class melibatkan lebih dari satu. Hal ini disebut dengan multipli
 Sebuah Kereta Api dioperasikan oleh Masinis serta seorang Asisten Masinis. Baik Masinis 
 maupun Asisten Masinis keduanya merupakan Pegawai PT. Kereta Api Indonesia.
 
+Dari ilustrasi cerita tersebut, dapat digambarkan dalam diagram kelas sebagai berikut:
+
+![Percobaan 3](img/diagramClassPercobaan3.PNG)
+
 Didapatkan hasil seperti berikut:
 
 ![Percobaan 3](img/percobaan3_1.png)
@@ -160,7 +172,11 @@ Link kode program : [MainPertanyaan1841720078Reza](../../src/4_Relasi_Class/Main
 
 ### Percobaan 4
 
-Dipercobaan ini, akan dibuat 3 class yakni: Class Penumpang, Kursi, dan Gerbong.
+Pada percobaan 4 ini, percobaan yang dilakukan hampir sama seperti percobaan 3. Hanya saja berbeda diagram class dan tanpa studi kasus. Pada percobaan 4 ini kita juga belajar bagaimana membuat object array dengan tipe data class.
+
+Berikut ini adalah diagram class pada percobaan 4 :
+
+![Percobaan 4](img/diagramClassPercobaan4.PNG)
 
 Didapatkan hasil seperti berikut:
 
@@ -216,9 +232,7 @@ Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasik
 
 Class diagram:
 
-![Tugas](img/class_diagram1.PNG)
-![Tugas](img/class_diagram2.PNG)
-![Tugas](img/class_diagram3.PNG)
+![Tugas](img/umlTugas.jpg)
 
 Implementasi ke dalam program:
 
