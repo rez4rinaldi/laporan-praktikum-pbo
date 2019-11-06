@@ -15,32 +15,26 @@ public class JumpingZombie1841720078Reza extends Zombie1841720078Reza
     @Override
     public void healReza() 
     {
-        double bonus;
-        switch (mLevel) 
+        if (this.mLevel == 1) 
         {
-            case 1:
-                bonus = mHealth * 0.3;
-                mHealth += bonus;
-                break;
-            case 2:
-                bonus = mHealth * 0.4;
-                mHealth += bonus;
-                break;
-            case 3:
-                bonus = mHealth * 0.5;
-                mHealth += bonus;
-                break;
-            default:
-                System.out.println("Level kelebihan!!");
-                break;
-        }
+            mHealth += mHealth * 0.3;
+        } 
+        
+        else if (this.mLevel == 2) 
+        {
+            mHealth += mHealth * 0.4;
+        } 
+        
+        else if(this.mLevel == 3)
+        {
+            mHealth += mHealth * 0.5;
+        } 
     }
 
     @Override
     public void destroyedReza()
     {
-        double kurang = 0.01 * mHealth;
-        mHealth -= kurang;
+        this.mHealth -= this.mHealth * 10 / 100;
     }
     
     @Override
