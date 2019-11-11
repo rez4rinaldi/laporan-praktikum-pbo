@@ -148,6 +148,7 @@ Implementasi ke dalam kode program, hasilnya adalah sebagai berikut:
 > ![Percobaan 4](img/percobaan4_2.png)
 
 > Hasil
+
 > ![Percobaan 4](img/percobaan4_3.png)
 > ![Percobaan 4](img/percobaan4_4.png)
 
@@ -185,6 +186,7 @@ Setelah dimodifikasi, hasilnya adalah sebagai berikut :
 > ![Percobaan 4](img/percobaan4_6.png)
 
 > Hasil
+
 > ![Percobaan 4](img/percobaan4_7.png)
 > ![Percobaan 4](img/percobaan4_8.png)
 
@@ -192,6 +194,7 @@ Setelah dimodifikasi, hasilnya adalah sebagai berikut :
 > ![Percobaan 4](img/percobaan4_9.png)
 
 > Maka akan muncul pesan
+
 > ![Percobaan 4](img/percobaan4_10.png)
 
 Link kode program:
@@ -213,6 +216,7 @@ Implementasi ke dalam kode program, hasilnya adalah sebagai berikut:
 > ![Percobaan 5](img/percobaan5_2.png)
 
 > Hasil (Halaman 3)
+
 > ![Percobaan 5](img/percobaan5_3.png)
 
 ### Pertanyaan - Percobaan 5
@@ -237,6 +241,7 @@ Setelah dimodifikasi, hasilnya adalah sebagai berikut :
 > ![Percobaan 5](img/percobaan5_5.png)
 
 > Hasil (Halaman 1)
+
 > ![Percobaan 5](img/percobaan5_6.png)
 
 > Source (Halaman 2)
@@ -246,6 +251,7 @@ Setelah dimodifikasi, hasilnya adalah sebagai berikut :
 > ![Percobaan 5](img/percobaan5_8.png)
 
 > Hasil (Halaman 2)
+
 > ![Percobaan 5](img/percobaan5_9.png)
 
 Link kode program:
