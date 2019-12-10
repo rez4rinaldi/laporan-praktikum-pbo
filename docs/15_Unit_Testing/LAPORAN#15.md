@@ -91,7 +91,7 @@ Link kode program:
 
 [Kategori1841720078Reza](../../src/15_Unit_Testing/Kategori1841720078Reza.java)
 
-[KategoriTest1841720078Reza](../../src/15_Unit_Testing/KategoriTest1841720078Reza.java)
+[Kategori1841720078RezaTest.java](../../src/15_Unit_Testing/Kategori1841720078RezaTest.java)
 
 [TestRunner1841720078Reza](../../src/15_Unit_Testing/TestRunner1841720078Reza.java)
 
@@ -111,7 +111,7 @@ Link kode program :
 
 [Anggota1841720078Reza](../../src/15_Unit_Testing/Anggota1841720078Reza.java)
 
-[AnggotaTest1841720078Reza](../../src/15_Unit_Testing/AnggotaTest1841720078Reza.java)
+[Anggota1841720078RezaTest](../../src/15_Unit_Testing/Anggota1841720078RezaTest.java)
 
 [TestRunner1841720078Reza](../../src/15_Unit_Testing/TestRunner1841720078Reza.java)
 
